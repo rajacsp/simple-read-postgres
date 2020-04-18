@@ -17,7 +17,7 @@ database = 'postgres'
 
 def start():
     """
-    Query all rows in the CITY table
+    Query all rows in the ONE table
     :param conn: the Connection object
     :return:
     """    
